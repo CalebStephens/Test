@@ -1,2 +1,3 @@
 # Test
-Hello
+Console.WriteLine("Hello");
+Console.ReadLine();
