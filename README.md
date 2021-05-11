@@ -1,3 +1,3 @@
 # Test
-Console.WriteLine("Hello");
+Console.WriteLine("Bye");
 Console.ReadLine();
